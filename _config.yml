@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://daa25209.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: daa25209 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -43,6 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://github.com/daa25209
 
 # Site Verification Settings
 webmaster_verifications:
